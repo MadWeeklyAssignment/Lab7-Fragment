@@ -1,4 +1,4 @@
-package com.example.fragmentexample1_challenge;
+package com.example.fragmentexample1;
 
 import org.junit.Test;
 
