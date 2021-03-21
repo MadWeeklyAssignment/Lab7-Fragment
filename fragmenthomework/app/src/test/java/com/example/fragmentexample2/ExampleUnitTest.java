@@ -1,4 +1,4 @@
-package com.example.fragmenthomework;
+package com.example.fragmentexample2;
 
 import org.junit.Test;
 
